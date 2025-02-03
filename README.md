@@ -5,8 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Carlos's Computer">
 
 - 📚 Studying
-- 👨🏼‍💻 Fullstack Developer 
-- 💼 Working at ...
+- 👨🏼‍💻 Fullstack Developer
 - 🧑 I am 19 years old
 - 🌎 Rio de Janeiro - RJ, Brazil
 
