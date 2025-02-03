@@ -10,7 +10,6 @@
 - 🧑 I am 19 years old ...
 - 🌎 Rio de Janeiro - RJ, Brazil ...
 
-----
 
 ## 🚀 My Skills
 
