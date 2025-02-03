@@ -7,8 +7,8 @@
 - 📚 Studying
 - 👨🏼‍💻 Fullstack Developer 
 - 💼 Working at ...
-- 🧑 I am 19 years old ...
-- 🌎 Rio de Janeiro - RJ, Brazil ...
+- 🧑 I am 19 years old
+- 🌎 Rio de Janeiro - RJ, Brazil
 
 
 ## 🚀 My Skills
