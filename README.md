@@ -13,38 +13,21 @@
 
 ## 🚀 My Skills
 
-<table>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" height="32" width="32" /><br/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ellipse_1.svg/100px-Ellipse_1.svg.png" width="40" height="8" alt="" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" height="32" width="32" /><br/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ellipse_1.svg/100px-Ellipse_1.svg.png" width="40" height="8" alt="" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="32" width="32" /><br/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ellipse_1.svg/100px-Ellipse_1.svg.png" width="40" height="8" alt="" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="32" width="32" /><br/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ellipse_1.svg/100px-Ellipse_1.svg.png" width="40" height="8" alt="" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript" height="32" width="32" /><br/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ellipse_1.svg/100px-Ellipse_1.svg.png" width="40" height="8" alt="" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" height="32" width="32" /><br/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ellipse_1.svg/100px-Ellipse_1.svg.png" width="40" height="8" alt="" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" height="32" width="32" /><br/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ellipse_1.svg/100px-Ellipse_1.svg.png" width="40" height="8" alt="" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" style="height: 32px; width: 32px; object-fit: contain;" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React.js" style="height: 32px; width: 32px;" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" style="height: 32px; width: 32px;" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" style="height: 32px; width: 32px;" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" style="height: 32px; width: 32px;" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" style="height: 32px; width: 32px;" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" style="height: 32px; width: 32px;" />
+</p>
 
 ----
 
