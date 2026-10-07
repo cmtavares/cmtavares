@@ -23,11 +23,11 @@ Today my day to day lives mostly around Next.js, React, TypeScript and Node.js, 
       src="https://img.shields.io/badge/LinkedIn-cmtavaresdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-  <a href="https://instagram.com/cmtavares">
+  <a href="https://instagram.com/cm.tavares">
     <img
       alt="Instagram"
       title="Instagram"
-      src="https://img.shields.io/badge/Instagram-@cmtavares-E1306C?style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-@cm.tavares-E1306C?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
 </p>
